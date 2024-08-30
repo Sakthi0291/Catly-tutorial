@@ -1,0 +1,13 @@
+{
+  "client": {
+    "source": "client/app",
+    "plugin":"zcatalyst-cli-plugin-react"
+  },
+  "functions": {
+    "targets": [
+      "catly"
+    ],
+    "ignore": [],
+    "source": "functions"
+  }
+}

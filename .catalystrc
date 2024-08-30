@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "7567000000072943",
+      "name": "CatlyNodeJS",
+      "domain": {
+        "id": "50022037233",
+        "name": "catlynodejs-60030031736.development"
+      },
+      "timezone": "Asia/Kolkata",
+      "env": [
+        {
+          "idx": 1,
+          "id": "60030031736",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}
